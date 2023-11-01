@@ -1,7 +1,5 @@
-<p align="center">
-<img src="https://drive.google.com/file/d/1dW5sfoL00mvejf9C5FSzy_TAAjXPEPxr/view?usp=sharing">
-<img src="https://drive.google.com/file/d/1IBRvP0BeZ1q57PUHISVerwLnpVPjNhBu/view?usp=sharing">
-<br>
+![](my_logo.png)
+![](puppyraffle_logo.png)
 
 # Security Findings Per My Participation In The [`CodeHawks First Flights PuppyRaffle 🐶 Contest`](https://www.codehawks.com/contests/clo383y5c000jjx087qrkbrj8)
 
